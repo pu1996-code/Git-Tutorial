@@ -1,5 +1,6 @@
 class First{
 	public static void main(String arg[]){
-		System.out.print("hello world");
+
+		System.out.print("This is my first program in Java");
 	}
 }
